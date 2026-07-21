@@ -1,6 +1,7 @@
 name = "decap-proxy"
 main = "src/index.ts"
 compatibility_date = "2026-07-20"
+keep_vars = true
 
 [vars]
 GITHUB_REPO_PRIVATE = "1"
